@@ -6,6 +6,8 @@
       <class name="com.tutorial.test.TestConsole2"/>
       <class name="com.tutorial.test.TestConsole"/>
       <class name="com.tutorial.test.TestConsole3"/>
+      <class name="com.tutorial.test.TestConsole4"/>
+      <class name="com.tutorial.test.TestConsole5"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
